@@ -1,2 +1,0 @@
-# CertProj
-Certificate Project
